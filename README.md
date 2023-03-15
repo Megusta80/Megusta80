@@ -2,7 +2,7 @@
 <h3> Sou um Programador em constante Desenvolvimento 🧑🏿‍💻</h3>
 
 - 🎓 Estou cursando ADS na Faculdade Impacta de Tecnologia;
-- ☑️ Neste repositório você poderá acompanhar minha evolução, com todos os meus projetos.
+- ☑️ Neste repositório você poderá acompanhar minha evolução, com todos os meus projetos e alguns exercícios.
 
  <h3>🤖 Minhas principais tecnologias são:</h3>
 <div style="display: inline_block">
