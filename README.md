@@ -1,4 +1,4 @@
-<p><h1 align="center"> Olá, boas vindas ao meu perfil!</p> <p>Meu nome é Gustavo 👋🏾😄</h1>
+<h1 align="center"> Olá, boas vindas ao meu perfil! <p>Meu nome é Gustavo 👋🏾😄</h1>
 <h3> Sou um Programador em constante Desenvolvimento 🧑🏿‍💻</h3>
 
 - 🎓 Estou cursando ADS na Faculdade Impacta de Tecnologia;
