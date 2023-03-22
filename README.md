@@ -13,7 +13,7 @@
    <img align="center" alt="logo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
    <img align="center" alt="logo-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /></p>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megusta80&hide_progress=true&theme=gotham&show_icons=true&langs_count=20"/></p>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megusta80&hide=stars&show_icons=true&theme=gotham" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megusta80&hide=stars&show_icons=true&theme=gotham&" /></p>
   
   ##
   
