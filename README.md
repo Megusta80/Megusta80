@@ -1,7 +1,8 @@
 <h1 align="center"> Olá, boas vindas ao meu perfil! <p>Meu nome é Gustavo 👋🏾😄</h1>
 <h3> Sou um Programador em constante Desenvolvimento 🧑🏿‍💻</h3>
 
-- 🎓 Estou cursando ADS na Faculdade Impacta de Tecnologia;
+- 🎓 Estou cursando Sistemas de Informação na Faculdade Impacta de Tecnologia;
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia;
 - ☑️ Neste repositório você poderá acompanhar minha evolução, com todos os meus projetos e alguns exercícios.
 
  <h3>🤖 Minhas principais tecnologias são:</h3>
